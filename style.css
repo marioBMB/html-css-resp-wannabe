@@ -140,6 +140,10 @@ img {
     margin: 20px auto;
   }
 
+  .row div {
+    margin-top: 0 !important;
+  }
+
   .container:last-of-type .row {
     margin-bottom: 0;
   }
